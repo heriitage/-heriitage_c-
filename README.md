@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Heritage Chimmaranmma 
+- 👋 Hi, I’m Heritage Chibuikem
 - 👀 I’m interested in making the world better with Tech
 - 🌱 I’m currently learning Blockchain Development 
 - 💞️ I’m looking to collaborate on projects 
