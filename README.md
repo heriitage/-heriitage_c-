@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @heriitage
+- 👋 Hi, I’m Heritage Chimmaranmma 
 - 👀 I’m interested in making the world better with Tech
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Blockchain Development 
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me IG @heriitage_c 
+- 📫 How to reach me IG and Twitter @heriitage_c 
 
 <!---
 heriitage/heriitage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
